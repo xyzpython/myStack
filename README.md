@@ -1,1 +1,1 @@
-# myStack
+A game stack.
